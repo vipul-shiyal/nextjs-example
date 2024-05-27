@@ -1,0 +1,8 @@
+{
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/serverside/page": "app/serverside/page.js",
+  "/clientside/page": "app/clientside/page.js",
+  "/clientsidehoc/page": "app/clientsidehoc/page.js",
+  "/middlewareside/page": "app/middlewareside/page.js"
+}
